@@ -1,5 +1,5 @@
 .div-link {
-    display: flexbox;
+    display: flex;
     justify-content: space-between;
     font-weight: 300;
     font-size: xx-large;
