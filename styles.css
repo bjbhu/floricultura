@@ -1,4 +1,6 @@
-.div-link{
-font-weight: 300;
-font-size: xx-large;
+.div-link {
+    display: flexbox;
+    justify-content: space-between;
+    font-weight: 300;
+    font-size: xx-large;
 }
